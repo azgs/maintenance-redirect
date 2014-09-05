@@ -1,0 +1,22 @@
+{
+  "name": "maintenance-redirect",
+  "version": "0.0.1",
+  "description": "Simple server and webpage for redirecting when a server is down.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.8.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azgs/maintenance-redirect.git"
+  },
+  "author": "Adrian Sonnenschein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azgs/maintenance-redirect/issues"
+  },
+  "homepage": "https://github.com/azgs/maintenance-redirect"
+}
